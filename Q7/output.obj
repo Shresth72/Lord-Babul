@@ -1,0 +1,9 @@
+Address 0: global
+Address 1: extern
+Address 2: section
+Address 3: section
+Address 4: 	mov
+Address 5: 	mov
+Address 6: 	mov
+Address 7: 	call
+Address 8: 	ret
